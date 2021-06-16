@@ -1,0 +1,8 @@
+1a) 21 21 3 2
+b) 198 3 1
+c) abcd123 7 c cd
+d) 6
+e) 5 Exception: Denominator is 0
+f) 11.1 22.2 33.3 
+g) found 1.5
+h) 3 3 4

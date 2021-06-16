@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "cstdlib": "cpp",
+        "regex": "cpp"
+    }
+}
